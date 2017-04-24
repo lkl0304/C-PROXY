@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1492183934 source:e:\代码源文件\proxy\main.cpp
+	<process.h>
+	<fstream>
+	"proxy.h"
+
+1491229389 e:\代码源文件\proxy\proxy.h
+	<iostream>
+	<WinSock2.h>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+
+1491140591 e:\代码源文件\proxy\wstring.h
+	<cstring>
+	<cstdio>
+
